@@ -1,7 +1,7 @@
 # Particle Swarm Optimization (PSO) in Python
 
 <p align="center">
-    <img src="image" alt="Particle Swarm Optimization (PSO) in Python">
+    <img src="https://yarpiz.com/wp-content/uploads/2017/08/ypea127-particle-swarm-optimization.jpg" alt="Particle Swarm Optimization (PSO) in Python">
 </p>
 
 This is an implementation of Particle Swarm Optimization (PSO) in Python.
